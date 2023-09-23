@@ -1,0 +1,7 @@
+{
+    "Example Extension": {
+       "Source":"/extensions/example.js",
+       "banner":"market/files.svg",
+       "Description":"Example Description: Lorem Ipsum poop"
+    }
+ }
